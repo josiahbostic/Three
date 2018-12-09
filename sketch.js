@@ -6,7 +6,7 @@ var j = 0;
 var list = [0,1,2,3];
 
 function preload (){
-	song = loadSound('Kobe_Bryant_The_Leader.mp3');
+	song = loadSound('Kobe-Bryant-The-Leader.mp3');
 	img[0] = loadImage("KOBE4.jpg");
 	img[1] = loadImage("KOBE3.jpg")
 	img[2] = loadImage("KOBE5.jpg")
